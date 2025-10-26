@@ -88,6 +88,38 @@ I’m always down to mentor, tutor, talk ideas, tech, or just vibe about life. R
 
 ---
 
+### 🕋 Now Playing  
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31vpvrporrwg5i5ceaxzdepnn4bm" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff4081&bar_color_cover=false" alt="Now Playing on Spotify"/>
+  </a>
+</p>
+
+> 🎶 Currently vibing to Qur’an recitations and Islamic podcasts.
+
+---
+
+### 🌙 Daily Reflection
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical&category=islamic&border=true&borderColor=ff4081&showTitle=true&title=Reflection%20of%20the%20Day" alt="Daily Islamic Reflection" />
+</p>
+
+> _"And He found you lost and guided [you]."_ — **Qur’an 93:7**
+
+---
+
+### 📖 Random Qur’an Verse  
+
+<p align="center">
+  <img src="https://quran-api.vercel.app/api/random?font=Scheherazade&size=22&translation=en&theme=dark" alt="Random Qur'an Verse" />
+</p>
+
+> 🕋 _A daily ayah for the soul — updated automatically each refresh._
+
+---
+
 ### ⚡ GitHub Vibes
 
 <p align="center">
