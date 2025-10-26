@@ -1,15 +1,15 @@
 <!-- Intro section with animated header -->
 <h1 align="center">
-  👋🏽 Hey there, I’m <span style="color:#ff4081;">Rasheed Amuda</span>  
+  <p align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand gif" />
+  </p> Hey there, I’m <span style="color:#ff4081;">Rasheed Amuda</span>  
 </h1>
 
-<h3 align="center">💻 Full Stack Software & AI Engineer | 🔐 Cybersecurity Enthusiast | 🚀 Builder of Things That Matter</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF4081&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Software+%26+AI+Engineer;🔐+Cybersecurity+Enthusiast;🚀+Builder+of+Things+That+Matter" alt="Typing Animation" />
+</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand gif" />
-</p>
-
-> _“Technology isn’t just what I build — it’s how I think.”_
+> _“Technology isn’t just what I build; it’s how I think.”_
 
 I’m a freaking **Software Engineer**, **AI Engineer**, and **Cybersecurity Specialist** who’s deeply fell in love with crafting intelligent systems that make people’s lives easier. I don't know how or why, but, I just love blending clean engineering with a bit of creative chaos; that sweet spot between logic and imagination.
 
@@ -39,7 +39,7 @@ Here’s the stuff that powers my world:
 
 #### 💡 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,vue,react,jquery,next,vite,php,laravel,symfony,mysql,flutter,dart,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,vue,react,jquery,next,vite,php,laravel,symfony,mysql,flutter,dart,html,css,tailwind,bootstrap&perline=8" />
 </p>
 
 #### 🧠 AI, ML & Automation
@@ -110,13 +110,15 @@ I’m always down to mentor, tutor, talk ideas, tech, or just vibe about life. R
 
 ---
 
-### 📖 Random Qur’an Verse  
+### 📖 Random Qur’an Verse
 
 <p align="center">
-  <img src="https://quran-api.vercel.app/api/random?font=Scheherazade&size=22&translation=en&theme=dark" alt="Random Qur'an Verse" />
+  <a href="https://api.alquran.cloud/v1/ayah/random" target="_blank">
+    <img src="https://readme-quote-generator.vercel.app/api?quote=And+We+have+certainly+made+the+Qur'an+easy+to+remember,+so+is+there+anyone+who+will+remember?&author=Qur'an+54:17&theme=radical" alt="Random Qur'an Verse"/>
+  </a>
 </p>
 
-> 🕋 _A daily ayah for the soul — updated automatically each refresh._
+> 🕋 _“And We have certainly made the Qur'an easy to remember, so is there anyone who will remember?”_ — **Qur’an 54:17**
 
 ---
 
